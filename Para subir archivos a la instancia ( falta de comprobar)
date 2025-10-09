@@ -1,0 +1,1 @@
+scp -i /ruta/a/tu/clave.pem /ruta/local/al/archivo usuario@<IP_DE_INSTANCIA>:/ruta/remota/de/destino/
